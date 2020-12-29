@@ -10,7 +10,17 @@
 
 ## *Screenshot*
 
-## Deskripsi Aplikasi
+## Deskripsi Game
+
+```text
+blablalba
+```
+
+## Story Line
+
+```text
+blablabla
+```
 
 ## Cara Pemakaian Aplikasi
 
