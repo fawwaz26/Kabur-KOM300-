@@ -40,6 +40,7 @@ Suatu hari ada seorang anak namanya limbo diculik untuk dijadikan eksperimen. Ke
 | Adobe Photoshop | Membuat aset |
 
 ## Video Presentasi
+proses....
 
 ## *Screenshot*
 Main menu
