@@ -13,6 +13,8 @@ Permainan dapat diunduh <a href="https://drive.google.com/file/d/1jttj-GEyKr0IFf
 
 
 ## Story Line
+Suatu hari ada seorang anak namanya limbo diculik untuk dijadikan eksperimen. Ketika bangun limbo dan melihat kondisi dari anak-anak yang lain menderita menjadi bahan eksperimen. Limbo tidak ingin dijadikan bahan eksperimen , maka dari itu limbo mencari jalan keluar dan menemukannya. Limbo kabur, tetapi tidak semudah yang dia kira. Dia harus melewati rintangan-rintangan monster yang dimana monster-monster tersebut adalah anak-anal yang dijadikan eksperimen.
+
 
 
 ## Cara Pemakaian Aplikasi
@@ -21,6 +23,10 @@ Permainan dapat diunduh <a href="https://drive.google.com/file/d/1jttj-GEyKr0IFf
 3. jalankan file *Kaboor_2d.exe*
 
 ## Action
+* Player otomatis berlari
+* Player dapat melompat (Space button / Up Arrow)
+* Player dapat Meluncur (Ctrl left button / Down Arrow)
+* Muncul rintangan
 
 
 ## Teknologi yang Digunakan
