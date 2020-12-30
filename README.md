@@ -7,7 +7,7 @@ Permainan dapat diunduh <a href="https://drive.google.com/file/d/1jttj-GEyKr0IFf
 |-----|------|------|
 |Fawwaz Khairi |G64180042 | Game Artist |
 |Imam Mulhaq Rosyadi| G64180047 | Game Design |
-|Muhammad Khoiru Tobi Albertino| G64180065 | Game Progammer |
+|Muhamad Khoiru Tobi Albertino| G64180065 | Game Progammer |
 
 ## Deskripsi Game
 
