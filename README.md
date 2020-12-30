@@ -1,6 +1,6 @@
 # Kaboor-KOM300-
 Pemainan endless run....blablabla</br>
-Permainan dapat diunduh <a href="https://drive.google.com/file/d/1jttj-GEyKr0IFfTWbvq0_ePPO85aqag-/view?usp=sharing">di sini</a> atau direktori <a href="https://github.com/fawwaz26/Kabur-KOM300-/blob/main/Kaboor_2d(Game).zip">github ini</a>
+Permainan dapat diunduh <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1jttj-GEyKr0IFfTWbvq0_ePPO85aqag-/view?usp=sharing">di sini</a> atau direktori <a target="_blank" rel="noopener noreferrer" href="https://github.com/fawwaz26/Kabur-KOM300-/blob/main/Kaboor_2d(Game).zip">github ini</a>
 
 ## Pengembang dan Pembagian Tugas
 |Nama|NIM|Tugas|
