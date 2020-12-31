@@ -4,10 +4,10 @@ Game ini bertujuan untuk mendapatkan banyak score dengan terus berlari dan berus
 Permainan dapat diunduh <a href="https://drive.google.com/file/d/1jttj-GEyKr0IFfTWbvq0_ePPO85aqag-/view?usp=sharing" target="_blank" rel="noopener noreferrer">di sini</a> atau direktori <a href="https://github.com/fawwaz26/Kabur-KOM300-/blob/main/Kaboor_2d(Game).zip" target="_blank" rel="noopener noreferrer">github ini</a>
 
 ## Pengembang dan Pembagian Tugas
-|Nama|NIM|Tugas|
+|Nama|NIM|Peranan|
 |-----|------|------|
 |Fawwaz Khairi |G64180042 | Game Artist |
-|Imam Mulhaq Rosyadi| G64180047 | Game Design |
+|Imam Mulhaq Rosyadi| G64180047 | Game Designer |
 |Muhamad Khoiru Tobi Albertino| G64180065 | Game Progammer |
 
 ## Deskripsi Game
