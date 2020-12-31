@@ -1,4 +1,4 @@
-# Kaboor-KOM300-
+# Kaboor 2D-KOM300-Grafika Komputer
 Game ini bertujuan untuk mendapatkan banyak score dengan terus berlari dan berusaha menghindari rintangan (obstacle). Awal permainan player memiliki 3 health. Jika player terkena salah satu rintangan make health player akan berkurang 1 dan seterusnya. Jika health player 0, maka artinya permainan selesai dan score berhenti.
 </br>
 Permainan dapat diunduh <a href="https://drive.google.com/file/d/1jttj-GEyKr0IFfTWbvq0_ePPO85aqag-/view?usp=sharing" target="_blank" rel="noopener noreferrer">di sini</a> atau direktori <a href="https://github.com/fawwaz26/Kabur-KOM300-/blob/main/Kaboor_2d(Game).zip" target="_blank" rel="noopener noreferrer">github ini</a>
